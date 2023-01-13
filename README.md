@@ -10,9 +10,9 @@
     </div>
     
    <div align="center"> 
-  <a href="https://github.com/CrvgFelipe">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CrvgFelipe&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrvgFelipe&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/crvgfelipe">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crvgfelipe&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crvgfelipe&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   </div>
 
